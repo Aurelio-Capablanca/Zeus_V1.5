@@ -1,0 +1,585 @@
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\bin\Debug\Zeus.exe.config
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\bin\Debug\Zeus.exe
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\bin\Debug\Zeus.pdb
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.Form1.resources
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.exe
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.pdb
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+c:\users\samue\onedrive\documentos\visual studio 2015\Projects\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\hp\Desktop\Zeus\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.exe
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.pdb
+C:\Users\hp\Desktop\Zeus\Zeus\bin\Debug\Zeus.exe
+C:\Users\hp\Desktop\Zeus\Zeus\bin\Debug\Zeus.pdb
+C:\Users\hp\Desktop\Zeus\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\hp\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.Primer_Uso.resources
+F:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.exe.config
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.exe
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.pdb
+F:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.exe
+F:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.pdb
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Form1.resources
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Primer_Uso.resources
+F:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+D:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.exe.config
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.exe
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.pdb
+D:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.exe
+D:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.pdb
+D:\Expo60%\Zeus\Zeus\bin\Debug\MySql.Data.dll
+D:\Expo60%\Zeus\Zeus\bin\Debug\MySql.Data.xml
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Form1.resources
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Primer_Uso.resources
+D:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+E:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.exe.config
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.exe
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.pdb
+E:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.exe
+E:\Expo60%\Zeus\Zeus\bin\Debug\Zeus.pdb
+E:\Expo60%\Zeus\Zeus\bin\Debug\MySql.Data.dll
+E:\Expo60%\Zeus\Zeus\bin\Debug\MySql.Data.xml
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Form1.resources
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.Vista.Primer_Uso.resources
+E:\Expo60%\Zeus\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+F:\Expo60%\Zeus\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Zeus\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Zeus\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Zeus\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Zeus\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\Zeus\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.Vista.Primer_Uso.resources
+C:\Users\adalb\Desktop\Zeus\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.FrmVotacion.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.Primer_Uso.resources
+C:\Users\adalb\Desktop\Zeus Reunificacion\Pruebas de votantes\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.FrmVotacion.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.Vista.Primer_Uso.resources
+C:\Users\adalb\Desktop\Pruebas de votantes\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmVotacion.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Primer_Uso.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.exe
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.pdb
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.pdb
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\samue\OneDrive\Escritorio\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.exe
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.pdb
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.pdb
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\hp\Desktop\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe.config
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.exe
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.pdb
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.pdb
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.xml
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Form1.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+F:\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmSplashScreen.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\Expo Zeus 4.0\Expo - Sistema de votación\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmRecuperarAdmin.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.exe
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.pdb
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\Zeus.exe
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\Zeus.pdb
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmRecuperarAdmin.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmReportes.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.FrmSplashScreen.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\Estudiante\Desktop\Zeus 3.91 CRUDS\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmRecuperarAdmin.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmReportes.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmSplashScreen.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmRecuperacionRes.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadorCorreo.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\Ricaldone 2019\ExpoTecnica 2019\Expo - Sistema de votación Zeus\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmRecuperacionRes.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadorCorreo.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmRecuperarAdmin.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmReportes.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.FrmSplashScreen.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 3.91 CRUDS trabajo\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmRecuperacionRes.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadorCorreo.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmRecuperarAdmin.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmReportes.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmSplashScreen.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.ReportePadron.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\RdlCompile.cache
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\RdlCompile.compiled
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.ReportesVotantes.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.ReporteJRV.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.ReporteMesa.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.Actas.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.frmGraficos.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.frmGarafico2.resources
+G:\Zeus 4.2\Zeus\bin\Debug\Zeus.exe.config
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.exe
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.pdb
+G:\Zeus 4.2\Zeus\bin\Debug\Zeus.exe
+G:\Zeus 4.2\Zeus\bin\Debug\Zeus.pdb
+G:\Zeus 4.2\Zeus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Zeus 4.2\Zeus\bin\Debug\MySql.Data.dll
+G:\Zeus 4.2\Zeus\bin\Debug\MySql.Data.xml
+G:\Zeus 4.2\Zeus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Form1.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.Actas.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.ReporteJRV.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.ReporteMesa.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.ReportePadron.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Reportes.ReportesVotantes.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmEstadisticas.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.frmGarafico2.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.frmGraficos.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmRecuperacionRes.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadorCorreo.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmRecuperarAdmin.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmReportes.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.FrmSplashScreen.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+G:\Zeus 4.2\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+G:\Zeus 4.2\Zeus\obj\Debug\RdlCompile.cache
+G:\Zeus 4.2\Zeus\obj\Debug\RdlCompile.compiled
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\MySql.Data.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.csprojResolveAssemblyReference.cache
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.ReportesVotantes.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmEstadisticas.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.frmGarafico2.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.frmGraficos.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmRecuperacionRes.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadorCorreo.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmRecuperarAdmin.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmReportes.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmSplashScreen.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.csproj.GenerateResource.Cache
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\RdlCompile.cache
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\RdlCompile.compiled
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.ReportePadron.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.ReporteJRV.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.ReporteMesa.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.Actas.resources
+C:\Users\adalb\Desktop\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.Actas_JRV.resources
+C:\Users\adalb\Desktop\Ricaldone 2019\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Ricaldone 2019\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Ricaldone 2019\100%  Expotécnica\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Zeus.exe.config
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\Zeus.pdb
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\MySql.Data.xml
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.csproj.AssemblyReference.cache
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Form1.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Properties.Resources.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.Actas.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.Actas_JRV.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.ReporteJRV.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.ReporteMesa.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.ReportePadron.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Reportes.ReportesVotantes.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.frmBusquedaUsuario.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmConfigUsu.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmEstadisticas.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.frmGarafico2.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.frmGraficos.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmLogin.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmLogVotante.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmPadron.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmPrimeraEmpresa.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmPrimerUsuario.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmRecuperacionRes.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadorCorreo.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmRecuperadores.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmRecuperarAdmin.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmReportes.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.FrmSplashScreen.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.Frm_Administrador.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.Frm_Partido.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.Vista.Papeleta.resources
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.csproj.GenerateResource.cache
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.csproj.CoreCompileInputs.cache
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.csproj.CopyComplete
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.exe
+C:\Users\adalb\Desktop\Proyecto\Proyectos\Proyectos Anteriores\Zeus Definitivo 5.0\Zeus 5.0\Zeus\obj\Debug\Zeus.pdb

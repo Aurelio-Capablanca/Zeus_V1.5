@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92F4EBD6-4FAF-4503-987C-C0CC96ADC747}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Zeus</RootNamespace>
+    <AssemblyName>Zeus</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>F:\Tecnicas\Programas\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Documents\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config\Conexion.cs" />
+    <Compile Include="Controlador\conexion.cs" />
+    <Compile Include="Controlador\Constructor.cs" />
+    <Compile Include="Controlador\constructorcentrovotacion.cs" />
+    <Compile Include="Controlador\ConstructorContraseña.cs" />
+    <Compile Include="Controlador\constructorCorreoRe.cs" />
+    <Compile Include="Controlador\Constructorformula_pres.cs" />
+    <Compile Include="Controlador\ConstructorLogin.cs" />
+    <Compile Include="Controlador\ConstructorMiembro.cs" />
+    <Compile Include="Controlador\ConstructorPadron.cs" />
+    <Compile Include="Controlador\ConstructorPartido.cs" />
+    <Compile Include="Controlador\ConstructorVotante.cs" />
+    <Compile Include="Controlador\ConstructorVotanteLog.cs" />
+    <Compile Include="Controlador\constructor_clave.cs" />
+    <Compile Include="Controlador\Constructor_Empresa.cs" />
+    <Compile Include="Controlador\Constructor_Papeleta.cs" />
+    <Compile Include="Controlador\constructor_PrimerUsoUsuario.cs" />
+    <Compile Include="Controlador\Constructor_PrimerUsuario.cs" />
+    <Compile Include="Controlador\constructo_admin.cs" />
+    <Compile Include="Controlador\ControladorJRV.cs" />
+    <Compile Include="Controlador\ControladorMesa.cs" />
+    <Compile Include="Controlador\Funciones_PrimerUsoUsuario.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\AcivarVotante.cs" />
+    <Compile Include="Modelo\CentroVotacion.cs" />
+    <Compile Include="Modelo\ConstructorPregunta.cs" />
+    <Compile Include="Modelo\Control_Empresa.cs" />
+    <Compile Include="Modelo\formulaPresidencial.cs" />
+    <Compile Include="Modelo\frmGraficas.cs" />
+    <Compile Include="Modelo\fucionesBusquedas.cs" />
+    <Compile Include="Modelo\FuncionContraseña.cs" />
+    <Compile Include="Modelo\funcionesReCo.cs" />
+    <Compile Include="Modelo\Funciones_admin.cs" />
+    <Compile Include="Modelo\Funciones_jrv.cs" />
+    <Compile Include="Modelo\funciones_mesas.cs" />
+    <Compile Include="Modelo\Funciones_mie.cs" />
+    <Compile Include="Modelo\Funciones_Padron.cs" />
+    <Compile Include="Modelo\Funciones_Papeletas.cs" />
+    <Compile Include="Modelo\Funciones_votante.cs" />
+    <Compile Include="Modelo\FuncionVotantes.cs" />
+    <Compile Include="Modelo\login_encrpi.cs" />
+    <Compile Include="Modelo\partidoPolitico.cs" />
+    <Compile Include="Modelo\ValidarLogin.cs" />
+    <Compile Include="Modelo\Verificacion_PrimerUso.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\Actas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Actas.Designer.cs">
+      <DependentUpon>Actas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Actas_JRV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Actas_JRV.Designer.cs">
+      <DependentUpon>Actas_JRV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataJRV.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataJRV.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataMesa.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataMesa.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataMiembros.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataMiembros.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataPadrones.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataPadrones.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteJRV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteJRV.Designer.cs">
+      <DependentUpon>ReporteJRV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteMesa.Designer.cs">
+      <DependentUpon>ReporteMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReportePadron.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReportePadron.Designer.cs">
+      <DependentUpon>ReportePadron.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReportesVotantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReportesVotantes.Designer.cs">
+      <DependentUpon>ReportesVotantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmBusquedaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmBusquedaUsuario.Designer.cs">
+      <DependentUpon>frmBusquedaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmConfigUsu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmConfigUsu.Designer.cs">
+      <DependentUpon>FrmConfigUsu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmEstadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmEstadisticas.Designer.cs">
+      <DependentUpon>FrmEstadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmGarafico2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmGarafico2.Designer.cs">
+      <DependentUpon>frmGarafico2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmGraficos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmGraficos.Designer.cs">
+      <DependentUpon>frmGraficos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmLogVotante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmLogVotante.Designer.cs">
+      <DependentUpon>FrmLogVotante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmPadron.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmPadron.Designer.cs">
+      <DependentUpon>FrmPadron.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmPrimeraEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmPrimeraEmpresa.Designer.cs">
+      <DependentUpon>FrmPrimeraEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmPrimerUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmPrimerUsuario.Designer.cs">
+      <DependentUpon>FrmPrimerUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmRecuperacionRes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmRecuperacionRes.Designer.cs">
+      <DependentUpon>FrmRecuperacionRes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmRecuperadorCorreo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmRecuperadorCorreo.Designer.cs">
+      <DependentUpon>FrmRecuperadorCorreo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmRecuperadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmRecuperadores.Designer.cs">
+      <DependentUpon>FrmRecuperadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmRecuperarAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmRecuperarAdmin.Designer.cs">
+      <DependentUpon>FrmRecuperarAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmReportes.Designer.cs">
+      <DependentUpon>FrmReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FrmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FrmSplashScreen.Designer.cs">
+      <DependentUpon>FrmSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Frm_Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Frm_Administrador.Designer.cs">
+      <DependentUpon>Frm_Administrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Frm_Partido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Frm_Partido.Designer.cs">
+      <DependentUpon>Frm_Partido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Papeleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Papeleta.Designer.cs">
+      <DependentUpon>Papeleta.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reportes\Actas.resx">
+      <DependentUpon>Actas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Actas_JRV.resx">
+      <DependentUpon>Actas_JRV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Report1.rdlc" />
+    <EmbeddedResource Include="Reportes\Report2.rdlc" />
+    <EmbeddedResource Include="Reportes\Report3.rdlc" />
+    <EmbeddedResource Include="Reportes\Report4.rdlc" />
+    <EmbeddedResource Include="Reportes\Report5.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteJRV.resx">
+      <DependentUpon>ReporteJRV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteMesa.resx">
+      <DependentUpon>ReporteMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReportePadron.resx">
+      <DependentUpon>ReportePadron.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReportesVotantes.resx">
+      <DependentUpon>ReportesVotantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmBusquedaUsuario.resx">
+      <DependentUpon>frmBusquedaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmConfigUsu.resx">
+      <DependentUpon>FrmConfigUsu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmEstadisticas.resx">
+      <DependentUpon>FrmEstadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmGarafico2.resx">
+      <DependentUpon>frmGarafico2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmGraficos.resx">
+      <DependentUpon>frmGraficos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmLogVotante.resx">
+      <DependentUpon>FrmLogVotante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmPadron.resx">
+      <DependentUpon>FrmPadron.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmPrimeraEmpresa.resx">
+      <DependentUpon>FrmPrimeraEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmPrimerUsuario.resx">
+      <DependentUpon>FrmPrimerUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmRecuperacionRes.resx">
+      <DependentUpon>FrmRecuperacionRes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmRecuperadorCorreo.resx">
+      <DependentUpon>FrmRecuperadorCorreo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmRecuperadores.resx">
+      <DependentUpon>FrmRecuperadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmRecuperarAdmin.resx">
+      <DependentUpon>FrmRecuperarAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmReportes.resx">
+      <DependentUpon>FrmReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FrmSplashScreen.resx">
+      <DependentUpon>FrmSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Frm_Administrador.resx">
+      <DependentUpon>Frm_Administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Frm_Partido.resx">
+      <DependentUpon>Frm_Partido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Papeleta.resx">
+      <DependentUpon>Papeleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reportes\DataJRV.xsc">
+      <DependentUpon>DataJRV.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataJRV.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataJRV.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataJRV.xss">
+      <DependentUpon>DataJRV.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataMesa.xsc">
+      <DependentUpon>DataMesa.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataMesa.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataMesa.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataMesa.xss">
+      <DependentUpon>DataMesa.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataMiembros.xsc">
+      <DependentUpon>DataMiembros.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataMiembros.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataMiembros.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataMiembros.xss">
+      <DependentUpon>DataMiembros.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataPadrones.xsc">
+      <DependentUpon>DataPadrones.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataPadrones.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataPadrones.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataPadrones.xss">
+      <DependentUpon>DataPadrones.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Sistema de Votos del TSE png BLANCO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sistema de Votos del TSE png NEGRO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expand-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sistema de Votos del TSE png texto BLANCO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vamos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fmln.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arena.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pcn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sistema de Votos del TSE png NEGRO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sistema de Votos del TSE png logo BLANCO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sistema de Votos del TSE png NEGRO2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sistema de Votos del TSE png BLANCO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sistema de Votos del TSE png NEGRO3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\captura.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agenda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resume.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repeat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\locked-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id-card-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id-card-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sistema de Votos del TSE png NEGRO4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id-card-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voto nulo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agenda1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diploma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archive-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-12.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
